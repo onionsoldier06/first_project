@@ -21,7 +21,7 @@ class App extends Component {
           >
             Learn React
           </a>
-          <Title />
+          <Title title="Hello World 3.0" />
         </header>
       </div>
     );
